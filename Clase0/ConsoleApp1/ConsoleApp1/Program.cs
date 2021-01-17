@@ -10,7 +10,11 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //
+            //   
+            Console.WriteLine("cual es tu nombre");
+            string nombre = Console.ReadLine();
+            Console.WriteLine("bienvenido" + nombre + "a dev master");
+            Console.ReadLine();
         }
     }
 }
