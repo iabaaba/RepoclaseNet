@@ -13,7 +13,7 @@ namespace ConsoleApp1
             //   
             Console.WriteLine("cual es tu nombre");
             string nombre = Console.ReadLine();
-            Console.WriteLine("bienvenido" + nombre + "a dev master");
+            Console.WriteLine("bienvenido" + nombre + "a dev master   ");
             Console.ReadLine();
         }
     }
